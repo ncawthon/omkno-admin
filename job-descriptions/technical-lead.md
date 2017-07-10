@@ -12,6 +12,6 @@ The Technical Lead is not expected to do everything themselves, instead being ab
 
 * Supervising the authoring of marketing automation algorithms to assist in initial lead-generation and social media efforts.
 
-* Establishing, integrating and maintaining an e-commerce and publication platform, optimizing and expanding as marketing efforts do the same.
+* Establishing, integrating and maintaining an e-commerce and publication platform, optimizing and expanding to include integrations as marketing and operational efforts aspire to do the same.
 
 * Internal and public representation of Omkno as incorporating best-of-breed customer experience practices, both from an ethical and a technological perspective.
