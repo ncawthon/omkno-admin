@@ -6,14 +6,12 @@ The Technical Lead is not expected to do everything themselves, instead being ab
 
 ## Responsibilities  
 
-* Creation and maintenance of a customized, HIPAA-compliant CRM that will generate a consistent unique ID for each customer, one that integrates with multiple platforms across analytics, conversion, and fulfillment steps of the customer journey.
+* Creation and maintenance of a customized, HIPAA-compliant CRM that will reference a consistent unique ID for each customer, one that propagate across multiple platforms across analytics, conversion, and fulfillment steps of the customer journey. This will likely include communication to the member via a mobile application or SMS to trigger a next-step process.
 
 * Implementation of a 2FA, both upon registration and reception of the physical sample kit. Tracking shipment delivery and return of the sample kit via postal APIs. 
 
 * Exploration on how to extend laboratory equipment hardware and software past their typically closed-loop systems, enabling processing of customer tests at scale, while integrated with the above-listed CRM steps.
 
-* Establishing, and maintaining an e-commerce and publication platform, optimizing and expanding to include integrations as marketing and operational efforts aspire to do the same.
-
-* Supervising the authoring of marketing automation algorithms to assist in initial lead-generation and social media efforts.
+* Establishing, and maintaining an e-commerce, marketing and publication platform, optimizing and expanding to include integrations as growth efforts aspire to do the same. This includes supervising the authoring of marketing automation algorithms to assist in initial lead-generation and social media efforts.
 
 * Internal and public representation of Omkno as incorporating best-of-breed customer experience practices, both from an ethical and a technological perspective.
